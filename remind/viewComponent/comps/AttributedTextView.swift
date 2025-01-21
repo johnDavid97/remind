@@ -1,0 +1,18 @@
+//
+//  AttributedTextView.swift
+//  remind
+//
+//  Created by Johan Nordstrand on 19/01/2025.
+//
+
+import SwiftUI
+
+struct AttributedTextView: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    AttributedTextView()
+}
