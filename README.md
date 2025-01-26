@@ -5,6 +5,10 @@ This is a small private project created to showcase skills in mobile app develop
 
 RemindMe is a small reminder application designed to help users quickly jot down tasks they can't address immediately and receive timely notifications. Using a structured syntax, users can specify attributes like title, description, date/time, and priority to create reminders.
 
+Read more about the creation of the project here:
+https://medium.com/@yocoloco123/from-idea-to-reality-building-my-first-ios-app-remindme-b38dac414a04
+
+
 ## Features
 
 - **Task Creation**: Quickly create reminders with title, description, and priority.
